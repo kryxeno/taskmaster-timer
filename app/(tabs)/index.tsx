@@ -34,7 +34,7 @@ export default function TabOneScreen() {
 
   const [paused, setPaused] = useState(true);
   const [started, setStarted] = useState(false);
-  const [overlay, setOverlay] = useState(true);
+  const [overlay, setOverlay] = useState(false);
   const [mode, setMode] = useState('SW');
   const [font, setFont] = useState('RajdhaniBold');
 
