@@ -375,6 +375,7 @@ export default function TabOneScreen() {
                         gap: 20,
                         alignItems: 'center',
                         justifyContent: 'center',
+                        backgroundColor: 'transparent',
                       }}
                     >
                       <TextInput
